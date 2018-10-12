@@ -5,10 +5,6 @@
  */
 package lab7;
 
-/**
- *
- * @author gir
- */
 public class Lab7 {
 
     /**
